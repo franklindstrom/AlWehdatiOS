@@ -15,6 +15,123 @@
 		84B92E0D1D39253C0069E88A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E0B1D39253C0069E88A /* LaunchScreen.storyboard */; };
 		84B92E181D39253C0069E88A /* AlWehdatiOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B92E171D39253C0069E88A /* AlWehdatiOSTests.m */; };
 		84B92E231D39253C0069E88A /* AlWehdatiOSUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B92E221D39253C0069E88A /* AlWehdatiOSUITests.m */; };
+		84B92EA61D39297C0069E88A /* btn_about_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E311D39297C0069E88A /* btn_about_normal.png */; };
+		84B92EA71D39297C0069E88A /* btn_asia_cl_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E321D39297C0069E88A /* btn_asia_cl_normal.png */; };
+		84B92EA81D39297C0069E88A /* btn_back_black.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E331D39297C0069E88A /* btn_back_black.png */; };
+		84B92EA91D39297C0069E88A /* btn_back_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E341D39297C0069E88A /* btn_back_normal.png */; };
+		84B92EAA1D39297C0069E88A /* btn_calendar_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E351D39297C0069E88A /* btn_calendar_normal.png */; };
+		84B92EAB1D39297C0069E88A /* btn_download_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E361D39297C0069E88A /* btn_download_normal.png */; };
+		84B92EAC1D39297C0069E88A /* btn_home_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E371D39297C0069E88A /* btn_home_normal.png */; };
+		84B92EAD1D39297C0069E88A /* btn_league_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E381D39297C0069E88A /* btn_league_normal.png */; };
+		84B92EAE1D39297C0069E88A /* btn_match_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E391D39297C0069E88A /* btn_match_normal.png */; };
+		84B92EAF1D39297C0069E88A /* btn_media_back_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E3A1D39297C0069E88A /* btn_media_back_normal.png */; };
+		84B92EB01D39297C0069E88A /* btn_media_download_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E3B1D39297C0069E88A /* btn_media_download_normal.png */; };
+		84B92EB11D39297C0069E88A /* btn_media_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E3C1D39297C0069E88A /* btn_media_normal.png */; };
+		84B92EB21D39297C0069E88A /* btn_media_share_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E3D1D39297C0069E88A /* btn_media_share_normal.png */; };
+		84B92EB31D39297C0069E88A /* btn_menu_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E3E1D39297C0069E88A /* btn_menu_normal.png */; };
+		84B92EB41D39297C0069E88A /* btn_news_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E3F1D39297C0069E88A /* btn_news_normal.png */; };
+		84B92EB51D39297C0069E88A /* btn_pause_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E401D39297C0069E88A /* btn_pause_normal.png */; };
+		84B92EB61D39297C0069E88A /* btn_rate_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E411D39297C0069E88A /* btn_rate_normal.png */; };
+		84B92EB71D39297C0069E88A /* btn_refresh_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E421D39297C0069E88A /* btn_refresh_normal.png */; };
+		84B92EB81D39297C0069E88A /* btn_search_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E431D39297C0069E88A /* btn_search_normal.png */; };
+		84B92EB91D39297C0069E88A /* btn_setting_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E441D39297C0069E88A /* btn_setting_normal.png */; };
+		84B92EBA1D39297C0069E88A /* btn_share_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E451D39297C0069E88A /* btn_share_normal.png */; };
+		84B92EBB1D39297C0069E88A /* btn_song_backward_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E461D39297C0069E88A /* btn_song_backward_normal.png */; };
+		84B92EBC1D39297C0069E88A /* btn_song_forward_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E471D39297C0069E88A /* btn_song_forward_normal.png */; };
+		84B92EBD1D39297C0069E88A /* btn_song_play_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E481D39297C0069E88A /* btn_song_play_normal.png */; };
+		84B92EBE1D39297C0069E88A /* btn_sports_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E491D39297C0069E88A /* btn_sports_normal.png */; };
+		84B92EBF1D39297C0069E88A /* btn_squad_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E4A1D39297C0069E88A /* btn_squad_normal.png */; };
+		84B92EC01D39297C0069E88A /* btn_switch_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E4B1D39297C0069E88A /* btn_switch_off.png */; };
+		84B92EC11D39297C0069E88A /* btn_switch_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E4C1D39297C0069E88A /* btn_switch_on.png */; };
+		84B92EC21D39297C0069E88A /* display_image.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E4D1D39297C0069E88A /* display_image.png */; };
+		84B92EC31D39297C0069E88A /* display_video.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E4E1D39297C0069E88A /* display_video.png */; };
+		84B92EC41D39297C0069E88A /* flag_arabic.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E4F1D39297C0069E88A /* flag_arabic.png */; };
+		84B92EC51D39297C0069E88A /* flag_english.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E501D39297C0069E88A /* flag_english.png */; };
+		84B92EC61D39297C0069E88A /* gradient_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E511D39297C0069E88A /* gradient_bar.png */; };
+		84B92EC71D39297C0069E88A /* green_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E521D39297C0069E88A /* green_bar.png */; };
+		84B92EC81D39297C0069E88A /* icon_image_item.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E531D39297C0069E88A /* icon_image_item.png */; };
+		84B92EC91D39297C0069E88A /* icon_news_item.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E541D39297C0069E88A /* icon_news_item.png */; };
+		84B92ECA1D39297C0069E88A /* icon_song_item.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E551D39297C0069E88A /* icon_song_item.png */; };
+		84B92ECB1D39297C0069E88A /* icon_video_item.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E561D39297C0069E88A /* icon_video_item.png */; };
+		84B92ECC1D39297C0069E88A /* item_image11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E571D39297C0069E88A /* item_image11.png */; };
+		84B92ECD1D39297C0069E88A /* item_image12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E581D39297C0069E88A /* item_image12.png */; };
+		84B92ECE1D39297C0069E88A /* item_image13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E591D39297C0069E88A /* item_image13.png */; };
+		84B92ECF1D39297C0069E88A /* item_image14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E5A1D39297C0069E88A /* item_image14.png */; };
+		84B92ED01D39297C0069E88A /* item_image15.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E5B1D39297C0069E88A /* item_image15.png */; };
+		84B92ED11D39297C0069E88A /* item_image16.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E5C1D39297C0069E88A /* item_image16.png */; };
+		84B92ED21D39297C0069E88A /* item_image17.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E5D1D39297C0069E88A /* item_image17.png */; };
+		84B92ED31D39297C0069E88A /* item_image18.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E5E1D39297C0069E88A /* item_image18.png */; };
+		84B92ED41D39297C0069E88A /* item_image19.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E5F1D39297C0069E88A /* item_image19.png */; };
+		84B92ED51D39297C0069E88A /* item_image20.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E601D39297C0069E88A /* item_image20.png */; };
+		84B92ED61D39297C0069E88A /* item_image21.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E611D39297C0069E88A /* item_image21.png */; };
+		84B92ED71D39297C0069E88A /* item_image22.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E621D39297C0069E88A /* item_image22.png */; };
+		84B92ED81D39297C0069E88A /* item_image23.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E631D39297C0069E88A /* item_image23.png */; };
+		84B92ED91D39297C0069E88A /* item_image24.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E641D39297C0069E88A /* item_image24.png */; };
+		84B92EDA1D39297C0069E88A /* item_image25.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E651D39297C0069E88A /* item_image25.png */; };
+		84B92EDB1D39297C0069E88A /* item_image26.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E661D39297C0069E88A /* item_image26.png */; };
+		84B92EDC1D39297C0069E88A /* item_image27.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E671D39297C0069E88A /* item_image27.png */; };
+		84B92EDD1D39297C0069E88A /* item_image28.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E681D39297C0069E88A /* item_image28.png */; };
+		84B92EDE1D39297C0069E88A /* item_image29.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E691D39297C0069E88A /* item_image29.png */; };
+		84B92EDF1D39297C0069E88A /* item_image30.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E6A1D39297C0069E88A /* item_image30.png */; };
+		84B92EE01D39297C0069E88A /* item_image31.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E6B1D39297C0069E88A /* item_image31.png */; };
+		84B92EE11D39297C0069E88A /* mark_small.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E6C1D39297C0069E88A /* mark_small.png */; };
+		84B92EE21D39297C0069E88A /* other_sport_images_item_image.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E6D1D39297C0069E88A /* other_sport_images_item_image.png */; };
+		84B92EE31D39297C0069E88A /* other_sport_news_item_image.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E6E1D39297C0069E88A /* other_sport_news_item_image.png */; };
+		84B92EE41D39297C0069E88A /* other_sport_videos_item_image.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E6F1D39297C0069E88A /* other_sport_videos_item_image.png */; };
+		84B92EE51D39297C0069E88A /* rate_item_image_bad_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E701D39297C0069E88A /* rate_item_image_bad_normal.png */; };
+		84B92EE61D39297C0069E88A /* rate_item_image_bad_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E711D39297C0069E88A /* rate_item_image_bad_selected.png */; };
+		84B92EE71D39297C0069E88A /* rate_item_image_excellent_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E721D39297C0069E88A /* rate_item_image_excellent_normal.png */; };
+		84B92EE81D39297C0069E88A /* rate_item_image_excellent_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E731D39297C0069E88A /* rate_item_image_excellent_selected.png */; };
+		84B92EE91D39297C0069E88A /* rate_item_image_good_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E741D39297C0069E88A /* rate_item_image_good_normal.png */; };
+		84B92EEA1D39297C0069E88A /* rate_item_image_good_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E751D39297C0069E88A /* rate_item_image_good_selected.png */; };
+		84B92EEB1D39297C0069E88A /* rate_item_image_poor_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E761D39297C0069E88A /* rate_item_image_poor_normal.png */; };
+		84B92EEC1D39297C0069E88A /* rate_item_image_poor_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E771D39297C0069E88A /* rate_item_image_poor_selected.png */; };
+		84B92EED1D39297C0069E88A /* rate_item_image_very_good_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E781D39297C0069E88A /* rate_item_image_very_good_normal.png */; };
+		84B92EEE1D39297C0069E88A /* rate_item_image_very_good_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E791D39297C0069E88A /* rate_item_image_very_good_selected.png */; };
+		84B92EEF1D39297C0069E88A /* social_icon_facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E7A1D39297C0069E88A /* social_icon_facebook.png */; };
+		84B92EF01D39297C0069E88A /* social_icon_google.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E7B1D39297C0069E88A /* social_icon_google.png */; };
+		84B92EF11D39297C0069E88A /* social_icon_linkedin.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E7C1D39297C0069E88A /* social_icon_linkedin.png */; };
+		84B92EF21D39297C0069E88A /* social_icon_twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E7D1D39297C0069E88A /* social_icon_twitter.png */; };
+		84B92EF31D39297C0069E88A /* social_icon_whats_app.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E7E1D39297C0069E88A /* social_icon_whats_app.png */; };
+		84B92EF41D39297C0069E88A /* social_icon_youtube.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E7F1D39297C0069E88A /* social_icon_youtube.png */; };
+		84B92EF51D39297C0069E88A /* social_item_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E801D39297C0069E88A /* social_item_arrow.png */; };
+		84B92EF61D39297C0069E88A /* social_item_back.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E811D39297C0069E88A /* social_item_back.png */; };
+		84B92EF71D39297C0069E88A /* social_item_comment_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E821D39297C0069E88A /* social_item_comment_icon.png */; };
+		84B92EF81D39297C0069E88A /* social_item_content_image_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E831D39297C0069E88A /* social_item_content_image_1.png */; };
+		84B92EF91D39297C0069E88A /* social_item_content_image_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E841D39297C0069E88A /* social_item_content_image_2.jpg */; };
+		84B92EFA1D39297C0069E88A /* social_item_icon_facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E851D39297C0069E88A /* social_item_icon_facebook.png */; };
+		84B92EFB1D39297C0069E88A /* social_item_icon_google_plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E861D39297C0069E88A /* social_item_icon_google_plus.png */; };
+		84B92EFC1D39297C0069E88A /* social_item_icon_linkedin.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E871D39297C0069E88A /* social_item_icon_linkedin.png */; };
+		84B92EFD1D39297C0069E88A /* social_item_icon_twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E881D39297C0069E88A /* social_item_icon_twitter.png */; };
+		84B92EFE1D39297C0069E88A /* social_item_icon_whats_app.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E891D39297C0069E88A /* social_item_icon_whats_app.png */; };
+		84B92EFF1D39297C0069E88A /* social_item_icon_youtube.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E8A1D39297C0069E88A /* social_item_icon_youtube.png */; };
+		84B92F001D39297C0069E88A /* social_item_like_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E8B1D39297C0069E88A /* social_item_like_icon.png */; };
+		84B92F011D39297C0069E88A /* social_item_photo_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E8C1D39297C0069E88A /* social_item_photo_1.png */; };
+		84B92F021D39297C0069E88A /* social_item_photo_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E8D1D39297C0069E88A /* social_item_photo_2.png */; };
+		84B92F031D39297C0069E88A /* social_item_reply_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E8E1D39297C0069E88A /* social_item_reply_icon.png */; };
+		84B92F041D39297C0069E88A /* song_back_image.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E8F1D39297C0069E88A /* song_back_image.png */; };
+		84B92F051D39297C0069E88A /* song_play_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E901D39297C0069E88A /* song_play_button.png */; };
+		84B92F061D39297C0069E88A /* sports_dress.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E911D39297C0069E88A /* sports_dress.png */; };
+		84B92F071D39297C0069E88A /* squad_photo_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E921D39297C0069E88A /* squad_photo_1.png */; };
+		84B92F081D39297C0069E88A /* squad_photo_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E931D39297C0069E88A /* squad_photo_2.png */; };
+		84B92F091D39297C0069E88A /* squad_photo_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E941D39297C0069E88A /* squad_photo_3.png */; };
+		84B92F0A1D39297C0069E88A /* squad_photo_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E951D39297C0069E88A /* squad_photo_4.png */; };
+		84B92F0B1D39297C0069E88A /* squad_photo_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E961D39297C0069E88A /* squad_photo_5.png */; };
+		84B92F0C1D39297C0069E88A /* takarub_mark.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E971D39297C0069E88A /* takarub_mark.png */; };
+		84B92F0D1D39297C0069E88A /* team_mark_ahli.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E981D39297C0069E88A /* team_mark_ahli.png */; };
+		84B92F0E1D39297C0069E88A /* team_mark_asala.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E991D39297C0069E88A /* team_mark_asala.png */; };
+		84B92F0F1D39297C0069E88A /* team_mark_baqaa.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E9A1D39297C0069E88A /* team_mark_baqaa.png */; };
+		84B92F101D39297C0069E88A /* team_mark_faisaly.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E9B1D39297C0069E88A /* team_mark_faisaly.png */; };
+		84B92F111D39297C0069E88A /* team_mark_hussain_irbid.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E9C1D39297C0069E88A /* team_mark_hussain_irbid.png */; };
+		84B92F121D39297C0069E88A /* team_mark_jazeera.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E9D1D39297C0069E88A /* team_mark_jazeera.png */; };
+		84B92F131D39297C0069E88A /* team_mark_koforsom.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E9E1D39297C0069E88A /* team_mark_koforsom.png */; };
+		84B92F141D39297C0069E88A /* team_mark_quqasi.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92E9F1D39297C0069E88A /* team_mark_quqasi.png */; };
+		84B92F151D39297C0069E88A /* team_mark_ramtha.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92EA01D39297C0069E88A /* team_mark_ramtha.png */; };
+		84B92F161D39297C0069E88A /* team_mark_shabab_alordon.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92EA11D39297C0069E88A /* team_mark_shabab_alordon.png */; };
+		84B92F171D39297C0069E88A /* team_mark_that_rass_black.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92EA21D39297C0069E88A /* team_mark_that_rass_black.png */; };
+		84B92F181D39297C0069E88A /* team_mark_that_rass_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92EA31D39297C0069E88A /* team_mark_that_rass_white.png */; };
+		84B92F191D39297C0069E88A /* video_play_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92EA41D39297C0069E88A /* video_play_button.png */; };
+		84B92F1A1D39297C0069E88A /* wehdat_photo.png in Resources */ = {isa = PBXBuildFile; fileRef = 84B92EA51D39297C0069E88A /* wehdat_photo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +168,123 @@
 		84B92E1E1D39253C0069E88A /* AlWehdatiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlWehdatiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84B92E221D39253C0069E88A /* AlWehdatiOSUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlWehdatiOSUITests.m; sourceTree = "<group>"; };
 		84B92E241D39253C0069E88A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84B92E311D39297C0069E88A /* btn_about_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_about_normal.png; sourceTree = "<group>"; };
+		84B92E321D39297C0069E88A /* btn_asia_cl_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_asia_cl_normal.png; sourceTree = "<group>"; };
+		84B92E331D39297C0069E88A /* btn_back_black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_back_black.png; sourceTree = "<group>"; };
+		84B92E341D39297C0069E88A /* btn_back_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_back_normal.png; sourceTree = "<group>"; };
+		84B92E351D39297C0069E88A /* btn_calendar_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_calendar_normal.png; sourceTree = "<group>"; };
+		84B92E361D39297C0069E88A /* btn_download_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_download_normal.png; sourceTree = "<group>"; };
+		84B92E371D39297C0069E88A /* btn_home_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_home_normal.png; sourceTree = "<group>"; };
+		84B92E381D39297C0069E88A /* btn_league_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_league_normal.png; sourceTree = "<group>"; };
+		84B92E391D39297C0069E88A /* btn_match_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_match_normal.png; sourceTree = "<group>"; };
+		84B92E3A1D39297C0069E88A /* btn_media_back_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_media_back_normal.png; sourceTree = "<group>"; };
+		84B92E3B1D39297C0069E88A /* btn_media_download_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_media_download_normal.png; sourceTree = "<group>"; };
+		84B92E3C1D39297C0069E88A /* btn_media_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_media_normal.png; sourceTree = "<group>"; };
+		84B92E3D1D39297C0069E88A /* btn_media_share_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_media_share_normal.png; sourceTree = "<group>"; };
+		84B92E3E1D39297C0069E88A /* btn_menu_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_menu_normal.png; sourceTree = "<group>"; };
+		84B92E3F1D39297C0069E88A /* btn_news_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_news_normal.png; sourceTree = "<group>"; };
+		84B92E401D39297C0069E88A /* btn_pause_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_pause_normal.png; sourceTree = "<group>"; };
+		84B92E411D39297C0069E88A /* btn_rate_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_rate_normal.png; sourceTree = "<group>"; };
+		84B92E421D39297C0069E88A /* btn_refresh_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_refresh_normal.png; sourceTree = "<group>"; };
+		84B92E431D39297C0069E88A /* btn_search_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_search_normal.png; sourceTree = "<group>"; };
+		84B92E441D39297C0069E88A /* btn_setting_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_setting_normal.png; sourceTree = "<group>"; };
+		84B92E451D39297C0069E88A /* btn_share_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_share_normal.png; sourceTree = "<group>"; };
+		84B92E461D39297C0069E88A /* btn_song_backward_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_song_backward_normal.png; sourceTree = "<group>"; };
+		84B92E471D39297C0069E88A /* btn_song_forward_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_song_forward_normal.png; sourceTree = "<group>"; };
+		84B92E481D39297C0069E88A /* btn_song_play_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_song_play_normal.png; sourceTree = "<group>"; };
+		84B92E491D39297C0069E88A /* btn_sports_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_sports_normal.png; sourceTree = "<group>"; };
+		84B92E4A1D39297C0069E88A /* btn_squad_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_squad_normal.png; sourceTree = "<group>"; };
+		84B92E4B1D39297C0069E88A /* btn_switch_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_switch_off.png; sourceTree = "<group>"; };
+		84B92E4C1D39297C0069E88A /* btn_switch_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_switch_on.png; sourceTree = "<group>"; };
+		84B92E4D1D39297C0069E88A /* display_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = display_image.png; sourceTree = "<group>"; };
+		84B92E4E1D39297C0069E88A /* display_video.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = display_video.png; sourceTree = "<group>"; };
+		84B92E4F1D39297C0069E88A /* flag_arabic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_arabic.png; sourceTree = "<group>"; };
+		84B92E501D39297C0069E88A /* flag_english.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_english.png; sourceTree = "<group>"; };
+		84B92E511D39297C0069E88A /* gradient_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gradient_bar.png; sourceTree = "<group>"; };
+		84B92E521D39297C0069E88A /* green_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green_bar.png; sourceTree = "<group>"; };
+		84B92E531D39297C0069E88A /* icon_image_item.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_image_item.png; sourceTree = "<group>"; };
+		84B92E541D39297C0069E88A /* icon_news_item.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_news_item.png; sourceTree = "<group>"; };
+		84B92E551D39297C0069E88A /* icon_song_item.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_song_item.png; sourceTree = "<group>"; };
+		84B92E561D39297C0069E88A /* icon_video_item.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_video_item.png; sourceTree = "<group>"; };
+		84B92E571D39297C0069E88A /* item_image11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image11.png; sourceTree = "<group>"; };
+		84B92E581D39297C0069E88A /* item_image12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image12.png; sourceTree = "<group>"; };
+		84B92E591D39297C0069E88A /* item_image13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image13.png; sourceTree = "<group>"; };
+		84B92E5A1D39297C0069E88A /* item_image14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image14.png; sourceTree = "<group>"; };
+		84B92E5B1D39297C0069E88A /* item_image15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image15.png; sourceTree = "<group>"; };
+		84B92E5C1D39297C0069E88A /* item_image16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image16.png; sourceTree = "<group>"; };
+		84B92E5D1D39297C0069E88A /* item_image17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image17.png; sourceTree = "<group>"; };
+		84B92E5E1D39297C0069E88A /* item_image18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image18.png; sourceTree = "<group>"; };
+		84B92E5F1D39297C0069E88A /* item_image19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image19.png; sourceTree = "<group>"; };
+		84B92E601D39297C0069E88A /* item_image20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image20.png; sourceTree = "<group>"; };
+		84B92E611D39297C0069E88A /* item_image21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image21.png; sourceTree = "<group>"; };
+		84B92E621D39297C0069E88A /* item_image22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image22.png; sourceTree = "<group>"; };
+		84B92E631D39297C0069E88A /* item_image23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image23.png; sourceTree = "<group>"; };
+		84B92E641D39297C0069E88A /* item_image24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image24.png; sourceTree = "<group>"; };
+		84B92E651D39297C0069E88A /* item_image25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image25.png; sourceTree = "<group>"; };
+		84B92E661D39297C0069E88A /* item_image26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image26.png; sourceTree = "<group>"; };
+		84B92E671D39297C0069E88A /* item_image27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image27.png; sourceTree = "<group>"; };
+		84B92E681D39297C0069E88A /* item_image28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image28.png; sourceTree = "<group>"; };
+		84B92E691D39297C0069E88A /* item_image29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image29.png; sourceTree = "<group>"; };
+		84B92E6A1D39297C0069E88A /* item_image30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image30.png; sourceTree = "<group>"; };
+		84B92E6B1D39297C0069E88A /* item_image31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_image31.png; sourceTree = "<group>"; };
+		84B92E6C1D39297C0069E88A /* mark_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mark_small.png; sourceTree = "<group>"; };
+		84B92E6D1D39297C0069E88A /* other_sport_images_item_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = other_sport_images_item_image.png; sourceTree = "<group>"; };
+		84B92E6E1D39297C0069E88A /* other_sport_news_item_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = other_sport_news_item_image.png; sourceTree = "<group>"; };
+		84B92E6F1D39297C0069E88A /* other_sport_videos_item_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = other_sport_videos_item_image.png; sourceTree = "<group>"; };
+		84B92E701D39297C0069E88A /* rate_item_image_bad_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_bad_normal.png; sourceTree = "<group>"; };
+		84B92E711D39297C0069E88A /* rate_item_image_bad_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_bad_selected.png; sourceTree = "<group>"; };
+		84B92E721D39297C0069E88A /* rate_item_image_excellent_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_excellent_normal.png; sourceTree = "<group>"; };
+		84B92E731D39297C0069E88A /* rate_item_image_excellent_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_excellent_selected.png; sourceTree = "<group>"; };
+		84B92E741D39297C0069E88A /* rate_item_image_good_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_good_normal.png; sourceTree = "<group>"; };
+		84B92E751D39297C0069E88A /* rate_item_image_good_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_good_selected.png; sourceTree = "<group>"; };
+		84B92E761D39297C0069E88A /* rate_item_image_poor_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_poor_normal.png; sourceTree = "<group>"; };
+		84B92E771D39297C0069E88A /* rate_item_image_poor_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_poor_selected.png; sourceTree = "<group>"; };
+		84B92E781D39297C0069E88A /* rate_item_image_very_good_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_very_good_normal.png; sourceTree = "<group>"; };
+		84B92E791D39297C0069E88A /* rate_item_image_very_good_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rate_item_image_very_good_selected.png; sourceTree = "<group>"; };
+		84B92E7A1D39297C0069E88A /* social_icon_facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_icon_facebook.png; sourceTree = "<group>"; };
+		84B92E7B1D39297C0069E88A /* social_icon_google.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_icon_google.png; sourceTree = "<group>"; };
+		84B92E7C1D39297C0069E88A /* social_icon_linkedin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_icon_linkedin.png; sourceTree = "<group>"; };
+		84B92E7D1D39297C0069E88A /* social_icon_twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_icon_twitter.png; sourceTree = "<group>"; };
+		84B92E7E1D39297C0069E88A /* social_icon_whats_app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_icon_whats_app.png; sourceTree = "<group>"; };
+		84B92E7F1D39297C0069E88A /* social_icon_youtube.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_icon_youtube.png; sourceTree = "<group>"; };
+		84B92E801D39297C0069E88A /* social_item_arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_arrow.png; sourceTree = "<group>"; };
+		84B92E811D39297C0069E88A /* social_item_back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_back.png; sourceTree = "<group>"; };
+		84B92E821D39297C0069E88A /* social_item_comment_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_comment_icon.png; sourceTree = "<group>"; };
+		84B92E831D39297C0069E88A /* social_item_content_image_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_content_image_1.png; sourceTree = "<group>"; };
+		84B92E841D39297C0069E88A /* social_item_content_image_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = social_item_content_image_2.jpg; sourceTree = "<group>"; };
+		84B92E851D39297C0069E88A /* social_item_icon_facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_icon_facebook.png; sourceTree = "<group>"; };
+		84B92E861D39297C0069E88A /* social_item_icon_google_plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_icon_google_plus.png; sourceTree = "<group>"; };
+		84B92E871D39297C0069E88A /* social_item_icon_linkedin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_icon_linkedin.png; sourceTree = "<group>"; };
+		84B92E881D39297C0069E88A /* social_item_icon_twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_icon_twitter.png; sourceTree = "<group>"; };
+		84B92E891D39297C0069E88A /* social_item_icon_whats_app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_icon_whats_app.png; sourceTree = "<group>"; };
+		84B92E8A1D39297C0069E88A /* social_item_icon_youtube.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_icon_youtube.png; sourceTree = "<group>"; };
+		84B92E8B1D39297C0069E88A /* social_item_like_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_like_icon.png; sourceTree = "<group>"; };
+		84B92E8C1D39297C0069E88A /* social_item_photo_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_photo_1.png; sourceTree = "<group>"; };
+		84B92E8D1D39297C0069E88A /* social_item_photo_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_photo_2.png; sourceTree = "<group>"; };
+		84B92E8E1D39297C0069E88A /* social_item_reply_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_item_reply_icon.png; sourceTree = "<group>"; };
+		84B92E8F1D39297C0069E88A /* song_back_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = song_back_image.png; sourceTree = "<group>"; };
+		84B92E901D39297C0069E88A /* song_play_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = song_play_button.png; sourceTree = "<group>"; };
+		84B92E911D39297C0069E88A /* sports_dress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sports_dress.png; sourceTree = "<group>"; };
+		84B92E921D39297C0069E88A /* squad_photo_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squad_photo_1.png; sourceTree = "<group>"; };
+		84B92E931D39297C0069E88A /* squad_photo_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squad_photo_2.png; sourceTree = "<group>"; };
+		84B92E941D39297C0069E88A /* squad_photo_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squad_photo_3.png; sourceTree = "<group>"; };
+		84B92E951D39297C0069E88A /* squad_photo_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squad_photo_4.png; sourceTree = "<group>"; };
+		84B92E961D39297C0069E88A /* squad_photo_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squad_photo_5.png; sourceTree = "<group>"; };
+		84B92E971D39297C0069E88A /* takarub_mark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = takarub_mark.png; sourceTree = "<group>"; };
+		84B92E981D39297C0069E88A /* team_mark_ahli.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_ahli.png; sourceTree = "<group>"; };
+		84B92E991D39297C0069E88A /* team_mark_asala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_asala.png; sourceTree = "<group>"; };
+		84B92E9A1D39297C0069E88A /* team_mark_baqaa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_baqaa.png; sourceTree = "<group>"; };
+		84B92E9B1D39297C0069E88A /* team_mark_faisaly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_faisaly.png; sourceTree = "<group>"; };
+		84B92E9C1D39297C0069E88A /* team_mark_hussain_irbid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_hussain_irbid.png; sourceTree = "<group>"; };
+		84B92E9D1D39297C0069E88A /* team_mark_jazeera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_jazeera.png; sourceTree = "<group>"; };
+		84B92E9E1D39297C0069E88A /* team_mark_koforsom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_koforsom.png; sourceTree = "<group>"; };
+		84B92E9F1D39297C0069E88A /* team_mark_quqasi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_quqasi.png; sourceTree = "<group>"; };
+		84B92EA01D39297C0069E88A /* team_mark_ramtha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_ramtha.png; sourceTree = "<group>"; };
+		84B92EA11D39297C0069E88A /* team_mark_shabab_alordon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_shabab_alordon.png; sourceTree = "<group>"; };
+		84B92EA21D39297C0069E88A /* team_mark_that_rass_black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_that_rass_black.png; sourceTree = "<group>"; };
+		84B92EA31D39297C0069E88A /* team_mark_that_rass_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = team_mark_that_rass_white.png; sourceTree = "<group>"; };
+		84B92EA41D39297C0069E88A /* video_play_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = video_play_button.png; sourceTree = "<group>"; };
+		84B92EA51D39297C0069E88A /* wehdat_photo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wehdat_photo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +344,7 @@
 				84B92E0B1D39253C0069E88A /* LaunchScreen.storyboard */,
 				84B92E0E1D39253C0069E88A /* Info.plist */,
 				84B92DFD1D39253C0069E88A /* Supporting Files */,
+				84B92E301D39295E0069E88A /* Resources */,
 			);
 			path = AlWehdatiOS;
 			sourceTree = "<group>";
@@ -138,6 +373,130 @@
 				84B92E241D39253C0069E88A /* Info.plist */,
 			);
 			path = AlWehdatiOSUITests;
+			sourceTree = "<group>";
+		};
+		84B92E301D39295E0069E88A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				84B92E311D39297C0069E88A /* btn_about_normal.png */,
+				84B92E321D39297C0069E88A /* btn_asia_cl_normal.png */,
+				84B92E331D39297C0069E88A /* btn_back_black.png */,
+				84B92E341D39297C0069E88A /* btn_back_normal.png */,
+				84B92E351D39297C0069E88A /* btn_calendar_normal.png */,
+				84B92E361D39297C0069E88A /* btn_download_normal.png */,
+				84B92E371D39297C0069E88A /* btn_home_normal.png */,
+				84B92E381D39297C0069E88A /* btn_league_normal.png */,
+				84B92E391D39297C0069E88A /* btn_match_normal.png */,
+				84B92E3A1D39297C0069E88A /* btn_media_back_normal.png */,
+				84B92E3B1D39297C0069E88A /* btn_media_download_normal.png */,
+				84B92E3C1D39297C0069E88A /* btn_media_normal.png */,
+				84B92E3D1D39297C0069E88A /* btn_media_share_normal.png */,
+				84B92E3E1D39297C0069E88A /* btn_menu_normal.png */,
+				84B92E3F1D39297C0069E88A /* btn_news_normal.png */,
+				84B92E401D39297C0069E88A /* btn_pause_normal.png */,
+				84B92E411D39297C0069E88A /* btn_rate_normal.png */,
+				84B92E421D39297C0069E88A /* btn_refresh_normal.png */,
+				84B92E431D39297C0069E88A /* btn_search_normal.png */,
+				84B92E441D39297C0069E88A /* btn_setting_normal.png */,
+				84B92E451D39297C0069E88A /* btn_share_normal.png */,
+				84B92E461D39297C0069E88A /* btn_song_backward_normal.png */,
+				84B92E471D39297C0069E88A /* btn_song_forward_normal.png */,
+				84B92E481D39297C0069E88A /* btn_song_play_normal.png */,
+				84B92E491D39297C0069E88A /* btn_sports_normal.png */,
+				84B92E4A1D39297C0069E88A /* btn_squad_normal.png */,
+				84B92E4B1D39297C0069E88A /* btn_switch_off.png */,
+				84B92E4C1D39297C0069E88A /* btn_switch_on.png */,
+				84B92E4D1D39297C0069E88A /* display_image.png */,
+				84B92E4E1D39297C0069E88A /* display_video.png */,
+				84B92E4F1D39297C0069E88A /* flag_arabic.png */,
+				84B92E501D39297C0069E88A /* flag_english.png */,
+				84B92E511D39297C0069E88A /* gradient_bar.png */,
+				84B92E521D39297C0069E88A /* green_bar.png */,
+				84B92E531D39297C0069E88A /* icon_image_item.png */,
+				84B92E541D39297C0069E88A /* icon_news_item.png */,
+				84B92E551D39297C0069E88A /* icon_song_item.png */,
+				84B92E561D39297C0069E88A /* icon_video_item.png */,
+				84B92E571D39297C0069E88A /* item_image11.png */,
+				84B92E581D39297C0069E88A /* item_image12.png */,
+				84B92E591D39297C0069E88A /* item_image13.png */,
+				84B92E5A1D39297C0069E88A /* item_image14.png */,
+				84B92E5B1D39297C0069E88A /* item_image15.png */,
+				84B92E5C1D39297C0069E88A /* item_image16.png */,
+				84B92E5D1D39297C0069E88A /* item_image17.png */,
+				84B92E5E1D39297C0069E88A /* item_image18.png */,
+				84B92E5F1D39297C0069E88A /* item_image19.png */,
+				84B92E601D39297C0069E88A /* item_image20.png */,
+				84B92E611D39297C0069E88A /* item_image21.png */,
+				84B92E621D39297C0069E88A /* item_image22.png */,
+				84B92E631D39297C0069E88A /* item_image23.png */,
+				84B92E641D39297C0069E88A /* item_image24.png */,
+				84B92E651D39297C0069E88A /* item_image25.png */,
+				84B92E661D39297C0069E88A /* item_image26.png */,
+				84B92E671D39297C0069E88A /* item_image27.png */,
+				84B92E681D39297C0069E88A /* item_image28.png */,
+				84B92E691D39297C0069E88A /* item_image29.png */,
+				84B92E6A1D39297C0069E88A /* item_image30.png */,
+				84B92E6B1D39297C0069E88A /* item_image31.png */,
+				84B92E6C1D39297C0069E88A /* mark_small.png */,
+				84B92E6D1D39297C0069E88A /* other_sport_images_item_image.png */,
+				84B92E6E1D39297C0069E88A /* other_sport_news_item_image.png */,
+				84B92E6F1D39297C0069E88A /* other_sport_videos_item_image.png */,
+				84B92E701D39297C0069E88A /* rate_item_image_bad_normal.png */,
+				84B92E711D39297C0069E88A /* rate_item_image_bad_selected.png */,
+				84B92E721D39297C0069E88A /* rate_item_image_excellent_normal.png */,
+				84B92E731D39297C0069E88A /* rate_item_image_excellent_selected.png */,
+				84B92E741D39297C0069E88A /* rate_item_image_good_normal.png */,
+				84B92E751D39297C0069E88A /* rate_item_image_good_selected.png */,
+				84B92E761D39297C0069E88A /* rate_item_image_poor_normal.png */,
+				84B92E771D39297C0069E88A /* rate_item_image_poor_selected.png */,
+				84B92E781D39297C0069E88A /* rate_item_image_very_good_normal.png */,
+				84B92E791D39297C0069E88A /* rate_item_image_very_good_selected.png */,
+				84B92E7A1D39297C0069E88A /* social_icon_facebook.png */,
+				84B92E7B1D39297C0069E88A /* social_icon_google.png */,
+				84B92E7C1D39297C0069E88A /* social_icon_linkedin.png */,
+				84B92E7D1D39297C0069E88A /* social_icon_twitter.png */,
+				84B92E7E1D39297C0069E88A /* social_icon_whats_app.png */,
+				84B92E7F1D39297C0069E88A /* social_icon_youtube.png */,
+				84B92E801D39297C0069E88A /* social_item_arrow.png */,
+				84B92E811D39297C0069E88A /* social_item_back.png */,
+				84B92E821D39297C0069E88A /* social_item_comment_icon.png */,
+				84B92E831D39297C0069E88A /* social_item_content_image_1.png */,
+				84B92E841D39297C0069E88A /* social_item_content_image_2.jpg */,
+				84B92E851D39297C0069E88A /* social_item_icon_facebook.png */,
+				84B92E861D39297C0069E88A /* social_item_icon_google_plus.png */,
+				84B92E871D39297C0069E88A /* social_item_icon_linkedin.png */,
+				84B92E881D39297C0069E88A /* social_item_icon_twitter.png */,
+				84B92E891D39297C0069E88A /* social_item_icon_whats_app.png */,
+				84B92E8A1D39297C0069E88A /* social_item_icon_youtube.png */,
+				84B92E8B1D39297C0069E88A /* social_item_like_icon.png */,
+				84B92E8C1D39297C0069E88A /* social_item_photo_1.png */,
+				84B92E8D1D39297C0069E88A /* social_item_photo_2.png */,
+				84B92E8E1D39297C0069E88A /* social_item_reply_icon.png */,
+				84B92E8F1D39297C0069E88A /* song_back_image.png */,
+				84B92E901D39297C0069E88A /* song_play_button.png */,
+				84B92E911D39297C0069E88A /* sports_dress.png */,
+				84B92E921D39297C0069E88A /* squad_photo_1.png */,
+				84B92E931D39297C0069E88A /* squad_photo_2.png */,
+				84B92E941D39297C0069E88A /* squad_photo_3.png */,
+				84B92E951D39297C0069E88A /* squad_photo_4.png */,
+				84B92E961D39297C0069E88A /* squad_photo_5.png */,
+				84B92E971D39297C0069E88A /* takarub_mark.png */,
+				84B92E981D39297C0069E88A /* team_mark_ahli.png */,
+				84B92E991D39297C0069E88A /* team_mark_asala.png */,
+				84B92E9A1D39297C0069E88A /* team_mark_baqaa.png */,
+				84B92E9B1D39297C0069E88A /* team_mark_faisaly.png */,
+				84B92E9C1D39297C0069E88A /* team_mark_hussain_irbid.png */,
+				84B92E9D1D39297C0069E88A /* team_mark_jazeera.png */,
+				84B92E9E1D39297C0069E88A /* team_mark_koforsom.png */,
+				84B92E9F1D39297C0069E88A /* team_mark_quqasi.png */,
+				84B92EA01D39297C0069E88A /* team_mark_ramtha.png */,
+				84B92EA11D39297C0069E88A /* team_mark_shabab_alordon.png */,
+				84B92EA21D39297C0069E88A /* team_mark_that_rass_black.png */,
+				84B92EA31D39297C0069E88A /* team_mark_that_rass_white.png */,
+				84B92EA41D39297C0069E88A /* video_play_button.png */,
+				84B92EA51D39297C0069E88A /* wehdat_photo.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +602,126 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84B92EE71D39297C0069E88A /* rate_item_image_excellent_normal.png in Resources */,
+				84B92ECD1D39297C0069E88A /* item_image12.png in Resources */,
+				84B92EFC1D39297C0069E88A /* social_item_icon_linkedin.png in Resources */,
+				84B92EAB1D39297C0069E88A /* btn_download_normal.png in Resources */,
+				84B92EFF1D39297C0069E88A /* social_item_icon_youtube.png in Resources */,
+				84B92ED11D39297C0069E88A /* item_image16.png in Resources */,
+				84B92EDA1D39297C0069E88A /* item_image25.png in Resources */,
+				84B92EAD1D39297C0069E88A /* btn_league_normal.png in Resources */,
+				84B92ECA1D39297C0069E88A /* icon_song_item.png in Resources */,
+				84B92F141D39297C0069E88A /* team_mark_quqasi.png in Resources */,
+				84B92F011D39297C0069E88A /* social_item_photo_1.png in Resources */,
+				84B92ECE1D39297C0069E88A /* item_image13.png in Resources */,
+				84B92EEA1D39297C0069E88A /* rate_item_image_good_selected.png in Resources */,
+				84B92EBC1D39297C0069E88A /* btn_song_forward_normal.png in Resources */,
+				84B92EDD1D39297C0069E88A /* item_image28.png in Resources */,
+				84B92EC11D39297C0069E88A /* btn_switch_on.png in Resources */,
+				84B92F101D39297C0069E88A /* team_mark_faisaly.png in Resources */,
+				84B92F0D1D39297C0069E88A /* team_mark_ahli.png in Resources */,
+				84B92ED41D39297C0069E88A /* item_image19.png in Resources */,
+				84B92EF51D39297C0069E88A /* social_item_arrow.png in Resources */,
 				84B92E0D1D39253C0069E88A /* LaunchScreen.storyboard in Resources */,
+				84B92EC81D39297C0069E88A /* icon_image_item.png in Resources */,
+				84B92EF21D39297C0069E88A /* social_icon_twitter.png in Resources */,
+				84B92EC01D39297C0069E88A /* btn_switch_off.png in Resources */,
+				84B92ECC1D39297C0069E88A /* item_image11.png in Resources */,
+				84B92F1A1D39297C0069E88A /* wehdat_photo.png in Resources */,
+				84B92EA61D39297C0069E88A /* btn_about_normal.png in Resources */,
+				84B92EFD1D39297C0069E88A /* social_item_icon_twitter.png in Resources */,
+				84B92EF61D39297C0069E88A /* social_item_back.png in Resources */,
+				84B92EB71D39297C0069E88A /* btn_refresh_normal.png in Resources */,
+				84B92F071D39297C0069E88A /* squad_photo_1.png in Resources */,
+				84B92EA91D39297C0069E88A /* btn_back_normal.png in Resources */,
+				84B92EB91D39297C0069E88A /* btn_setting_normal.png in Resources */,
+				84B92EEF1D39297C0069E88A /* social_icon_facebook.png in Resources */,
+				84B92F0A1D39297C0069E88A /* squad_photo_4.png in Resources */,
+				84B92F041D39297C0069E88A /* song_back_image.png in Resources */,
+				84B92F151D39297C0069E88A /* team_mark_ramtha.png in Resources */,
+				84B92EB61D39297C0069E88A /* btn_rate_normal.png in Resources */,
+				84B92EB31D39297C0069E88A /* btn_menu_normal.png in Resources */,
+				84B92EDB1D39297C0069E88A /* item_image26.png in Resources */,
+				84B92EDC1D39297C0069E88A /* item_image27.png in Resources */,
+				84B92F131D39297C0069E88A /* team_mark_koforsom.png in Resources */,
+				84B92EE31D39297C0069E88A /* other_sport_news_item_image.png in Resources */,
+				84B92EDE1D39297C0069E88A /* item_image29.png in Resources */,
+				84B92EB41D39297C0069E88A /* btn_news_normal.png in Resources */,
+				84B92EF11D39297C0069E88A /* social_icon_linkedin.png in Resources */,
+				84B92EBB1D39297C0069E88A /* btn_song_backward_normal.png in Resources */,
+				84B92F051D39297C0069E88A /* song_play_button.png in Resources */,
+				84B92EFA1D39297C0069E88A /* social_item_icon_facebook.png in Resources */,
+				84B92F031D39297C0069E88A /* social_item_reply_icon.png in Resources */,
+				84B92EF01D39297C0069E88A /* social_icon_google.png in Resources */,
+				84B92EA71D39297C0069E88A /* btn_asia_cl_normal.png in Resources */,
+				84B92EB51D39297C0069E88A /* btn_pause_normal.png in Resources */,
+				84B92EFB1D39297C0069E88A /* social_item_icon_google_plus.png in Resources */,
+				84B92EF81D39297C0069E88A /* social_item_content_image_1.png in Resources */,
+				84B92ED51D39297C0069E88A /* item_image20.png in Resources */,
+				84B92F181D39297C0069E88A /* team_mark_that_rass_white.png in Resources */,
+				84B92EB01D39297C0069E88A /* btn_media_download_normal.png in Resources */,
+				84B92F111D39297C0069E88A /* team_mark_hussain_irbid.png in Resources */,
+				84B92EC61D39297C0069E88A /* gradient_bar.png in Resources */,
+				84B92ECF1D39297C0069E88A /* item_image14.png in Resources */,
+				84B92EED1D39297C0069E88A /* rate_item_image_very_good_normal.png in Resources */,
+				84B92EA81D39297C0069E88A /* btn_back_black.png in Resources */,
+				84B92EE61D39297C0069E88A /* rate_item_image_bad_selected.png in Resources */,
+				84B92F161D39297C0069E88A /* team_mark_shabab_alordon.png in Resources */,
+				84B92EE41D39297C0069E88A /* other_sport_videos_item_image.png in Resources */,
+				84B92EAF1D39297C0069E88A /* btn_media_back_normal.png in Resources */,
+				84B92F0B1D39297C0069E88A /* squad_photo_5.png in Resources */,
+				84B92F0F1D39297C0069E88A /* team_mark_baqaa.png in Resources */,
+				84B92ED01D39297C0069E88A /* item_image15.png in Resources */,
+				84B92EAC1D39297C0069E88A /* btn_home_normal.png in Resources */,
+				84B92EDF1D39297C0069E88A /* item_image30.png in Resources */,
+				84B92EEB1D39297C0069E88A /* rate_item_image_poor_normal.png in Resources */,
+				84B92ED31D39297C0069E88A /* item_image18.png in Resources */,
+				84B92EB21D39297C0069E88A /* btn_media_share_normal.png in Resources */,
 				84B92E0A1D39253C0069E88A /* Assets.xcassets in Resources */,
 				84B92E081D39253C0069E88A /* Main.storyboard in Resources */,
+				84B92F171D39297C0069E88A /* team_mark_that_rass_black.png in Resources */,
+				84B92ED61D39297C0069E88A /* item_image21.png in Resources */,
+				84B92EC91D39297C0069E88A /* icon_news_item.png in Resources */,
+				84B92EC51D39297C0069E88A /* flag_english.png in Resources */,
+				84B92EAA1D39297C0069E88A /* btn_calendar_normal.png in Resources */,
+				84B92EBE1D39297C0069E88A /* btn_sports_normal.png in Resources */,
+				84B92F081D39297C0069E88A /* squad_photo_2.png in Resources */,
+				84B92F091D39297C0069E88A /* squad_photo_3.png in Resources */,
+				84B92EE01D39297C0069E88A /* item_image31.png in Resources */,
+				84B92EB11D39297C0069E88A /* btn_media_normal.png in Resources */,
+				84B92ED81D39297C0069E88A /* item_image23.png in Resources */,
+				84B92EBF1D39297C0069E88A /* btn_squad_normal.png in Resources */,
+				84B92EE11D39297C0069E88A /* mark_small.png in Resources */,
+				84B92EBA1D39297C0069E88A /* btn_share_normal.png in Resources */,
+				84B92F001D39297C0069E88A /* social_item_like_icon.png in Resources */,
+				84B92F0C1D39297C0069E88A /* takarub_mark.png in Resources */,
+				84B92EC21D39297C0069E88A /* display_image.png in Resources */,
+				84B92EC71D39297C0069E88A /* green_bar.png in Resources */,
+				84B92F061D39297C0069E88A /* sports_dress.png in Resources */,
+				84B92EFE1D39297C0069E88A /* social_item_icon_whats_app.png in Resources */,
+				84B92F121D39297C0069E88A /* team_mark_jazeera.png in Resources */,
+				84B92EE21D39297C0069E88A /* other_sport_images_item_image.png in Resources */,
+				84B92F021D39297C0069E88A /* social_item_photo_2.png in Resources */,
+				84B92EC41D39297C0069E88A /* flag_arabic.png in Resources */,
+				84B92ECB1D39297C0069E88A /* icon_video_item.png in Resources */,
+				84B92EAE1D39297C0069E88A /* btn_match_normal.png in Resources */,
+				84B92EF31D39297C0069E88A /* social_icon_whats_app.png in Resources */,
+				84B92EE51D39297C0069E88A /* rate_item_image_bad_normal.png in Resources */,
+				84B92ED71D39297C0069E88A /* item_image22.png in Resources */,
+				84B92F191D39297C0069E88A /* video_play_button.png in Resources */,
+				84B92EF71D39297C0069E88A /* social_item_comment_icon.png in Resources */,
+				84B92ED21D39297C0069E88A /* item_image17.png in Resources */,
+				84B92EB81D39297C0069E88A /* btn_search_normal.png in Resources */,
+				84B92EE91D39297C0069E88A /* rate_item_image_good_normal.png in Resources */,
+				84B92EE81D39297C0069E88A /* rate_item_image_excellent_selected.png in Resources */,
+				84B92EBD1D39297C0069E88A /* btn_song_play_normal.png in Resources */,
+				84B92ED91D39297C0069E88A /* item_image24.png in Resources */,
+				84B92EC31D39297C0069E88A /* display_video.png in Resources */,
+				84B92EEE1D39297C0069E88A /* rate_item_image_very_good_selected.png in Resources */,
+				84B92F0E1D39297C0069E88A /* team_mark_asala.png in Resources */,
+				84B92EEC1D39297C0069E88A /* rate_item_image_poor_selected.png in Resources */,
+				84B92EF91D39297C0069E88A /* social_item_content_image_2.jpg in Resources */,
+				84B92EF41D39297C0069E88A /* social_icon_youtube.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
